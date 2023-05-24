@@ -1,0 +1,144 @@
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.csproj.AssemblyReference.cache
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.AssemblyInfoInputs.cache
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.AssemblyInfo.cs
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.csproj.CoreCompileInputs.cache
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.MvcApplicationPartsAssemblyInfo.cs
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.MvcApplicationPartsAssemblyInfo.cache
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\appsettings.Development.json
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\appsettings.json
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Ms-Compras.exe
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Ms-Compras.deps.json
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Ms-Compras.runtimeconfig.json
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Ms-Compras.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Ms-Compras.pdb
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\AutoMapper.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\EntityFramework.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Humanizer.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Npgsql.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\System.CodeDom.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Prisma5fontes\Ms-Compras\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\staticwebassets\msbuild.Ms-Compras.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\staticwebassets\msbuild.build.Ms-Compras.props
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ms-Compras.props
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ms-Compras.props
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\staticwebassets.build.json
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\staticwebassets.development.json
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\scopedcss\bundle\Ms-Compras.styles.css
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.csproj.CopyComplete
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.dll
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\refint\Ms-Compras.dll
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.pdb
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\Ms-Compras.genruntimeconfig.cache
+C:\Prisma5fontes\Ms-Compras\obj\Debug\net7.0\ref\Ms-Compras.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\appsettings.Development.json
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\appsettings.json
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Ms-Compras.exe
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Ms-Compras.deps.json
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Ms-Compras.runtimeconfig.json
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Ms-Compras.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Ms-Compras.pdb
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\AutoMapper.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\EntityFramework.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Humanizer.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Npgsql.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\System.CodeDom.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Prisma5fontes\Ms-Compras - Copia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.csproj.AssemblyReference.cache
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.AssemblyInfoInputs.cache
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.AssemblyInfo.cs
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.csproj.CoreCompileInputs.cache
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.MvcApplicationPartsAssemblyInfo.cs
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.MvcApplicationPartsAssemblyInfo.cache
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\staticwebassets\msbuild.Ms-Compras.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\staticwebassets\msbuild.build.Ms-Compras.props
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ms-Compras.props
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ms-Compras.props
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\scopedcss\bundle\Ms-Compras.styles.css
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.csproj.CopyComplete
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.dll
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\refint\Ms-Compras.dll
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.pdb
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\Ms-Compras.genruntimeconfig.cache
+C:\Prisma5fontes\Ms-Compras - Copia\obj\Debug\net7.0\ref\Ms-Compras.dll
